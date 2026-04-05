@@ -76,11 +76,11 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
   projects: [
     {
       id: 1,
-      name: "Pulse",
-      description: "A web-based messaging system that allows uses to send and receive messages in real time along with timestamps made using Vanilla JS and Python Flask.",
-      tags: ["JavaScript", "Python", "Flask", "HTML", "CSS"],
-      github: "https://github.com/Shubankar-Sridhar/Pulse_Messaging_App-",
-      hosted: "https://pulse-2-0.onrender.com",
+      name: "Namma Chennai Metro",
+      description: "Chennai_Namma_Metro is a web-based navigation service built to help users efficiently traverse the extensive Chennai Metro network, covering over 150 stations across both operational and under-construction lines. The system models the metro as a graph and applies Dijkstra’s Algorithm to compute the shortest path between any two stations, providing detailed route information such as total distance, number of intermediate stations (nodes), and clear identification of required interchanges. In addition to route planning, it offers insights into the network structure, including stations with the highest connectivity, demonstrating practical applications of graph theory and algorithms in solving real-world transportation challenges.",
+      tags: ["Python", "Flask", "Networkx", "JavaScript", "HTML", "CSS"],
+      github: "https://github.com/Shubankar-Sridhar/Namma_Metro",
+      hosted: "https://chennai-namma-metro.onrender.com/",
       featured: null,
     },
     {
@@ -93,11 +93,11 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
     },
     {
       id: 3,
-      name: "Raagam - Local Music Streaming & Management Application",
-      description: "Developed a local music streaming application using vanilla JavaScript and a Python Flask backend. Enabled users to import and organize music folders by artists, albums, and playlists. Implemented metadata editing features for managing track details. Designed playlist creation and seamless audio streaming from local storage",
-      tags: ["Python", "Flask", "SQLite", "Mutagen", "JavaScript", "HTML", "CSS"],
-      github: "https://github.com/Shubankar-Sridhar/Raagam",
-      hosted: null,
+      name: "Pulse",
+      description: "A web-based messaging system that allows uses to send and receive messages in real time along with timestamps made using Vanilla JS and Python Flask.",
+      tags: ["JavaScript", "Python", "Flask", "HTML", "CSS"],
+      github: "https://github.com/Shubankar-Sridhar/Pulse_Messaging_App-",
+      hosted: "https://pulse-2-0.onrender.com",
       featured: null,
     },
   ],
