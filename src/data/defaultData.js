@@ -86,7 +86,7 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
     {
       id: 2,
       name: "Smart City Simulation using Contiki-NG and Cooja",
-      description: "Built a smart city IoT simulation in Contiki-NG using C and Cooja. Modeled event-driven communication between distributed sensor nodes. Demonstrated efficiency of event-driven kernel for low-power embedded systems.",
+      description: "A smart city IoT simulation built using Contiki-NG with C and the Cooja simulator, designed to model communication across distributed sensor nodes in a low-power network environment. The system represents the network as interconnected devices that communicate using an event-driven approach, enabling efficient data exchange between nodes. It demonstrates how Contiki-NG’s lightweight kernel supports energy-efficient operations while maintaining reliable communication. In addition to simulating data flow, the project provides insights into network behavior, including node interactions and communication patterns, showcasing the practical use of embedded systems and networking concepts in real-world IoT applications.",
       tags: ["Contiki-NG", "Cooja", "C"],
       github: "https://github.com/Shubankar-Sridhar/Smart_Park",
       featured: null,
@@ -94,7 +94,7 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
     {
       id: 3,
       name: "Pulse",
-      description: "A web-based messaging system that allows uses to send and receive messages in real time along with timestamps made using Vanilla JS and Python Flask.",
+      description: "A web-based messaging system built using Vanilla JavaScript and Python Flask, designed to enable real-time communication between users through a simple and responsive interface. The system handles message transmission between clients and the server, ensuring that messages are delivered instantly along with accurate timestamps. It models the flow of data through a client-server structure, allowing multiple users to interact seamlessly. In addition to core messaging functionality, the project highlights how dynamic updates and efficient request handling improve user experience, demonstrating practical applications of full-stack development in building interactive web-based communication tools.",
       tags: ["JavaScript", "Python", "Flask", "HTML", "CSS"],
       github: "https://github.com/Shubankar-Sridhar/Pulse_Messaging_App-",
       hosted: "https://pulse-2-0.onrender.com",
