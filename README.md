@@ -467,4 +467,3 @@ All tokens are CSS variables in `src/styles/globals.css` — change once, update
 
 ## 📄 License
 
-MIT — use freely, attribution appreciated.
