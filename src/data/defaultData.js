@@ -83,14 +83,17 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
       hosted: "https://chennai-namma-metro.onrender.com/",
       featured: null,
     },
+
     {
       id: 2,
-      name: "Smart City Simulation using Contiki-NG and Cooja",
-      description: "A smart city IoT simulation built using Contiki-NG with C and the Cooja simulator, designed to model communication across distributed sensor nodes in a low-power network environment. The system represents the network as interconnected devices that communicate using an event-driven approach, enabling efficient data exchange between nodes. It demonstrates how Contiki-NG’s lightweight kernel supports energy-efficient operations while maintaining reliable communication. In addition to simulating data flow, the project provides insights into network behavior, including node interactions and communication patterns, showcasing the practical use of embedded systems and networking concepts in real-world IoT applications.",
-      tags: ["Contiki-NG", "Cooja", "C"],
-      github: "https://github.com/Shubankar-Sridhar/Smart_Park",
+      name: "FinTrack - A One-stop Solution for Managing Finances",
+      description: "Built a full-stack personal finance management application using Flask for the REST API backend, React for the dynamic frontend, and SQLite for data persistence. The application features user authentication with SHA256 password hashing, multi-account support (cash, bank, credit), expense tracking with custom categories, income source management, automated recurring payments (weekly/monthly/yearly), EMI/loan tracking with payment schedules, savings goals with progress visualization, and comprehensive analytics including monthly income vs expenses bar charts, category-wise spending doughnut charts, and daily spending trend lines. Deployed on Render with persistent storage for production use.",
+      tags: ["Python", "React.js", "Flask", "SQLite", "CSS"],
+      github: "https://github.com/Shubankar-Sridhar/FinTrack",
+      hosted: "https://fintrack-lcha.onrender.com/",
       featured: null,
     },
+    
     {
       id: 3,
       name: "Pulse",
@@ -98,6 +101,15 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
       tags: ["JavaScript", "Python", "Flask", "HTML", "CSS"],
       github: "https://github.com/Shubankar-Sridhar/Pulse_Messaging_App-",
       hosted: "https://pulse-2-0.onrender.com",
+      featured: null,
+    },
+
+    {
+      id: 4,
+      name: "Smart City Simulation using Contiki-NG and Cooja",
+      description: "A smart city IoT simulation built using Contiki-NG with C and the Cooja simulator, designed to model communication across distributed sensor nodes in a low-power network environment. The system represents the network as interconnected devices that communicate using an event-driven approach, enabling efficient data exchange between nodes. It demonstrates how Contiki-NG’s lightweight kernel supports energy-efficient operations while maintaining reliable communication. In addition to simulating data flow, the project provides insights into network behavior, including node interactions and communication patterns, showcasing the practical use of embedded systems and networking concepts in real-world IoT applications.",
+      tags: ["Contiki-NG", "Cooja", "C"],
+      github: "https://github.com/Shubankar-Sridhar/Smart_Park",
       featured: null,
     },
   ],
