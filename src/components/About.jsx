@@ -163,7 +163,7 @@ export default function About() {
               <div className="about-image-frame">
                 <div className="about-image-placeholder">
                 <img
-                  src="https://github.com/Shubankar-Sridhar/staticFiles/raw/main/My_Picture.jpg"
+                  src="https://github.com/Shubankar-Sridhar/staticFiles/raw/main/My_Picture.png"
                   alt={personal.name.split(' ')[0][0]}
                   className="about-image"
                 />
