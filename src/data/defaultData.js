@@ -93,10 +93,18 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
       hosted: "https://fintrack-lcha.onrender.com/",
       featured: null,
     },
-    
     {
       id: 3,
-      name: "Pulse",
+      name: "Py-to-C Transpiler",
+      description: "Developed a web-based compiler that converts Python code into C by implementing core Theory of Computation concepts. The transpiler processes code through three stages: tokenization using finite automata, AST construction using pushdown automata, and C code generation using the visitor pattern. The application supports variables, numbers and text, lists, nested if-else statements, while loops, for loops with ranges, and print functionality. The web interface features a side-by-side code editor with tabs to view the generated C code, token stream, and syntax tree. Deployed on Render with automatic HTTPS and a clean, minimal design focused on usability.",
+      tags: ["Python", "Flask", "HTML", "CSS", "Lexer","Parser"],
+      github: "https://github.com/Shubankar-Sridhar/Py-to-C-Transpiler",
+      hosted: "https://py-to-c-transpiler.onrender.com/",
+      featured: null,
+    },
+    {
+      id: 4,
+      name: "Pulse - Messaging Application (Basic)",
       description: "A web-based messaging system built using Vanilla JavaScript and Python Flask, designed to enable real-time communication between users through a simple and responsive interface. The system handles message transmission between clients and the server, ensuring that messages are delivered instantly along with accurate timestamps. It models the flow of data through a client-server structure, allowing multiple users to interact seamlessly. In addition to core messaging functionality, the project highlights how dynamic updates and efficient request handling improve user experience, demonstrating practical applications of full-stack development in building interactive web-based communication tools.",
       tags: ["JavaScript", "Python", "Flask", "HTML", "CSS"],
       github: "https://github.com/Shubankar-Sridhar/Pulse_Messaging_App-",
@@ -105,7 +113,7 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
     },
 
     {
-      id: 4,
+      id: 5,
       name: "Smart City Simulation using Contiki-NG and Cooja",
       description: "A smart city IoT simulation built using Contiki-NG with C and the Cooja simulator, designed to model communication across distributed sensor nodes in a low-power network environment. The system represents the network as interconnected devices that communicate using an event-driven approach, enabling efficient data exchange between nodes. It demonstrates how Contiki-NG’s lightweight kernel supports energy-efficient operations while maintaining reliable communication. In addition to simulating data flow, the project provides insights into network behavior, including node interactions and communication patterns, showcasing the practical use of embedded systems and networking concepts in real-world IoT applications.",
       tags: ["Contiki-NG", "Cooja", "C"],
