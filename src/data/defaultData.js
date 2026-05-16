@@ -113,7 +113,17 @@ When I'm not coding, I'm contributing to open source, dancing, playing badminton
     },
 
     {
-      id: 5,
+      "id": 5,
+      "name": "HySecure",
+      "description": "HySecure is a hybrid steganography and cryptographic engineering system built to embed confidential messages inside PNG images while providing forward error correction and robust statistical analysis. The application secures data by combining symmetric AES-GCM encryption with an asymmetric RSA key-wrapping mechanism (4096-bit keypairs generated per operation). To ensure data integrity against channel noise or intentional image corruption, it integrates Reed–Solomon error correction algorithms. The core engine applies a hybrid spatial-frequency embedding pipeline using Least Significant Bit (LSB) tracking alongside mid-frequency Discrete Cosine Transform (DCT) modifications. Delivered as a single-instance web application using FastAPI and Jinja2 templates, it exposes endpoints for matrix-based image similarity scoring (MSE, PSNR, SSIM) and Westfeld-style chi-square pairwise steganalysis.",
+      "tags": ["Python", "FastAPI", "OpenCV", "NumPy", "Cryptography", "Jinja2"],
+      "github": "https://github.com/Shubankar-Sridhar/HySecure",
+      "hosted": "https://hysecure-app.onrender.com/",
+      "featured": null
+    },
+    
+    {
+      id: 6,
       name: "Smart City Simulation using Contiki-NG and Cooja",
       description: "A smart city IoT simulation built using Contiki-NG with C and the Cooja simulator, designed to model communication across distributed sensor nodes in a low-power network environment. The system represents the network as interconnected devices that communicate using an event-driven approach, enabling efficient data exchange between nodes. It demonstrates how Contiki-NG’s lightweight kernel supports energy-efficient operations while maintaining reliable communication. In addition to simulating data flow, the project provides insights into network behavior, including node interactions and communication patterns, showcasing the practical use of embedded systems and networking concepts in real-world IoT applications.",
       tags: ["Contiki-NG", "Cooja", "C"],
